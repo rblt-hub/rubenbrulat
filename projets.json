@@ -1,0 +1,1440 @@
+[
+  {
+    "slug": "ta-sphere-est-sans-peau",
+    "title": "Ta sphère est sans peau",
+    "year": "2025",
+    "images": [
+      {
+        "src": "images/ta-sphere-est-sans-peau/01.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/ta-sphere-est-sans-peau/02.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/ta-sphere-est-sans-peau/03.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/ta-sphere-est-sans-peau/04.jpg",
+        "width": 1500,
+        "height": 1945
+      },
+      {
+        "src": "images/ta-sphere-est-sans-peau/05.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/ta-sphere-est-sans-peau/06.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/ta-sphere-est-sans-peau/07.jpg",
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "medium": "Encre sur papier, poésie"
+  },
+  {
+    "slug": "regarde-regarde",
+    "title": "Regarde regarde l’eau qui boit tout",
+    "year": "2024",
+    "images": [
+      {
+        "src": "images/regarde-regarde/01.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/regarde-regarde/02.gif",
+        "width": 445,
+        "height": 792
+      },
+      {
+        "src": "images/regarde-regarde/03.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/regarde-regarde/04.gif",
+        "width": 427,
+        "height": 759
+      },
+      {
+        "src": "images/regarde-regarde/05.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/regarde-regarde/06.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/regarde-regarde/07.gif",
+        "width": 420,
+        "height": 747
+      },
+      {
+        "src": "images/regarde-regarde/08.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/regarde-regarde/09.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/regarde-regarde/10.gif",
+        "width": 922,
+        "height": 519
+      }
+    ],
+    "medium": "Installation, vidéo, son, lecture performée"
+  },
+  {
+    "slug": "tu-souffles",
+    "title": "Tu souffles tes strates sur toutes les mers",
+    "year": "2024",
+    "images": [
+      {
+        "src": "images/tu-souffles/01.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "src": "images/tu-souffles/02.jpg",
+        "width": 1333,
+        "height": 2000
+      },
+      {
+        "src": "images/tu-souffles/03.jpg",
+        "width": 1333,
+        "height": 2000
+      },
+      {
+        "src": "images/tu-souffles/04.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/tu-souffles/05.jpg",
+        "width": 1333,
+        "height": 2000
+      },
+      {
+        "src": "images/tu-souffles/06.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/tu-souffles/07.jpg",
+        "width": 1124,
+        "height": 2000
+      },
+      {
+        "src": "images/tu-souffles/08.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/tu-souffles/09.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/tu-souffles/10.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/tu-souffles/11.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/tu-souffles/12.jpg",
+        "width": 1014,
+        "height": 643
+      }
+    ],
+    "medium": "Installation"
+  },
+  {
+    "slug": "ici-et-la",
+    "title": "Ici et là",
+    "year": "2024",
+    "images": [
+      {
+        "src": "images/ici-et-la/01.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/ici-et-la/02.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/ici-et-la/03.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "src": "images/ici-et-la/04.jpg",
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "medium": "Installation, marche"
+  },
+  {
+    "slug": "porosite",
+    "title": "Porosité",
+    "year": "2023",
+    "images": [
+      {
+        "src": "images/porosite/01.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/porosite/02.gif",
+        "width": 261,
+        "height": 465
+      },
+      {
+        "src": "images/porosite/03.jpg",
+        "width": 500,
+        "height": 667
+      },
+      {
+        "src": "images/porosite/04.jpg",
+        "width": 800,
+        "height": 1067
+      },
+      {
+        "src": "images/porosite/05.jpg",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "src": "images/porosite/06.jpg",
+        "width": 700,
+        "height": 933
+      },
+      {
+        "src": "images/porosite/07.jpg",
+        "width": 500,
+        "height": 667
+      },
+      {
+        "src": "images/porosite/08.jpg",
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "src": "images/porosite/09.jpg",
+        "width": 1000,
+        "height": 1250
+      },
+      {
+        "src": "images/porosite/10.jpg",
+        "width": 700,
+        "height": 933
+      },
+      {
+        "src": "images/porosite/11.gif",
+        "width": 269,
+        "height": 478
+      },
+      {
+        "src": "images/porosite/12.jpg",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "src": "images/porosite/13.jpg",
+        "width": 600,
+        "height": 800
+      }
+    ],
+    "medium": "Installation"
+  },
+  {
+    "slug": "souffle-souffle",
+    "title": "Souffle, souffle",
+    "year": "2023",
+    "medium": "Photographie, autoportrait",
+    "images": [
+      {
+        "src": "images/souffle-souffle/01.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "02-Elle-est-nous-2.jpg"
+      },
+      {
+        "src": "images/souffle-souffle/02.jpg",
+        "width": 800,
+        "height": 1000,
+        "original_file": "03-Rouge-hanche.jpg"
+      },
+      {
+        "src": "images/souffle-souffle/03.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "04--Souffle--souffle.jpg"
+      }
+    ],
+    "text": "Souffle, souffle\nRouge hanche\nChute retenue\nElle est Nous\n\n2023\n\n105x131cm, numbered 1/5 + 2AP\n\nself-portrait made between 2015 - 2022",
+    "source_url": "https://rubenbrulat.com/souffle,-souffle-23"
+  },
+  {
+    "slug": "porosite-arbre-couche",
+    "title": "Porosité de l’arbre couché",
+    "year": "2022",
+    "medium": "Installation in situ, photographie",
+    "images": [
+      {
+        "src": "images/porosite-arbre-couche/01.jpg",
+        "width": 844,
+        "height": 1125,
+        "original_file": "1_IMG_4580-2.jpeg"
+      },
+      {
+        "src": "images/porosite-arbre-couche/02.jpg",
+        "width": 700,
+        "height": 1245,
+        "original_file": "2IMG_4384.jpg.png"
+      },
+      {
+        "src": "images/porosite-arbre-couche/03.jpg",
+        "width": 700,
+        "height": 990,
+        "original_file": "3cycle-2.jpg"
+      },
+      {
+        "src": "images/porosite-arbre-couche/04.jpg",
+        "width": 700,
+        "height": 933,
+        "original_file": "4IMG_4728.jpeg"
+      },
+      {
+        "src": "images/porosite-arbre-couche/05.jpg",
+        "width": 500,
+        "height": 667,
+        "original_file": "5IMG_3939.jpeg"
+      },
+      {
+        "src": "images/porosite-arbre-couche/06.jpg",
+        "width": 1500,
+        "height": 1125,
+        "original_file": "6IMG_4170.jpeg"
+      },
+      {
+        "src": "images/porosite-arbre-couche/07.jpg",
+        "width": 800,
+        "height": 1067,
+        "original_file": "7IMG_4664.jpeg"
+      },
+      {
+        "src": "images/porosite-arbre-couche/08.jpg",
+        "width": 700,
+        "height": 933,
+        "original_file": "8IMG_4769.jpeg"
+      }
+    ],
+    "text": "Porosité de l’arbre couché, les cycles communs, partie deux : Fôret de Fontainebleau\n\n2022\n\ntravaux in situ, plâtre, flore et faune, jet d’encre sur papier, terre\n\ndimensions variables\n\nUne instalation nait au sein de la fôret de fontainebleau, présence d’un dialogue établit un temps, les matieres sont glanées, assemblées en suspension, elles y flottent, Une série de figures dansent, autoportraits réalisées sur place. Les visiteurs sont invités à suivre un balisage pour trouver le lieu.",
+    "source_url": "https://rubenbrulat.com/porosit%C3%A9-de-l'arbre-couche-22"
+  },
+  {
+    "slug": "le-grand-derangement",
+    "title": "Le grand dérangement",
+    "year": "2021",
+    "medium": "Installation in situ, photographie",
+    "images": [
+      {
+        "src": "images/le-grand-derangement/01.jpg",
+        "width": 750,
+        "height": 1000,
+        "original_file": "1IMG_5554-2.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/02.jpg",
+        "width": 750,
+        "height": 1000,
+        "original_file": "2IMG_5620.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/03.jpg",
+        "width": 700,
+        "height": 990,
+        "original_file": "3cycles-communs-1.jpg"
+      },
+      {
+        "src": "images/le-grand-derangement/04.jpg",
+        "width": 750,
+        "height": 1000,
+        "original_file": "4IMG_6839.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/05.jpg",
+        "width": 675,
+        "height": 900,
+        "original_file": "5IMG_6718.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/06.jpg",
+        "width": 600,
+        "height": 800,
+        "original_file": "6IMG_6649.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/07.jpg",
+        "width": 1000,
+        "height": 750,
+        "original_file": "7IMG_6790.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/08.jpg",
+        "width": 750,
+        "height": 1000,
+        "original_file": "8IMG_8303.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/09.jpg",
+        "width": 375,
+        "height": 500,
+        "original_file": "9IMG_6926.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/10.jpg",
+        "width": 375,
+        "height": 500,
+        "original_file": "10IMG_6798.jpeg"
+      },
+      {
+        "src": "images/le-grand-derangement/11.jpg",
+        "width": 844,
+        "height": 1125,
+        "original_file": "11.jpeg"
+      }
+    ],
+    "text": "Le grand dérangement, les cycles communs, partie un : Fôret de Fontainebleau\n\n2021\n\ntravaux in situ, plâtre, flore et faune, jet d’encre sur papier, terre\n\ndimensions variables\n\nUn espace se forme au sein du lieu d’émergence des travaux, aprés plusieurs heures de progression nous arrivont à un camp. Il est formé par les interactions. Enraciné, l’installation est partagé en communs, avec les individus, le milieu dans lequel elle reste un certain temps. Certaines piéces sont formées d’autoportraits, de prises de vues au sein de la fôret, par enfouissement, certaines permettent de s’abriter le temps d’un orage, d’autres sont enveloppées de cire d’abeille récolté dans les environs.\n\nUn lit et un corps sont placés sous un des abris, que le vent finit par soulever.",
+    "source_url": "https://rubenbrulat.com/le-grand-d%C3%A9rangement-21"
+  },
+  {
+    "slug": "enfouir",
+    "title": "Enfouir",
+    "year": "2020",
+    "medium": "Travaux in situ, photographie, plâtre",
+    "images": [
+      {
+        "src": "images/enfouir/01.jpg",
+        "width": 700,
+        "height": 1054,
+        "original_file": "1_RB20200916014.jpg"
+      },
+      {
+        "src": "images/enfouir/02.jpg",
+        "width": 800,
+        "height": 1000,
+        "original_file": "2_RB20200326002.jpg"
+      },
+      {
+        "src": "images/enfouir/03.jpg",
+        "width": 800,
+        "height": 1000,
+        "original_file": "3_RB20200326003.jpg"
+      },
+      {
+        "src": "images/enfouir/04.jpg",
+        "width": 1000,
+        "height": 750,
+        "original_file": "4_RB20200923017.jpg"
+      },
+      {
+        "src": "images/enfouir/05.jpg",
+        "width": 700,
+        "height": 1048,
+        "original_file": "5_RB20200326001-2.jpg"
+      },
+      {
+        "src": "images/enfouir/06.jpg",
+        "width": 700,
+        "height": 1048,
+        "original_file": "6_RB20200326002-2.jpg"
+      },
+      {
+        "src": "images/enfouir/07.jpg",
+        "width": 1000,
+        "height": 1333,
+        "original_file": "7_RB20200916015.jpg"
+      },
+      {
+        "src": "images/enfouir/08.jpg",
+        "width": 700,
+        "height": 1048,
+        "original_file": "8_RB20200327005-2.jpg"
+      },
+      {
+        "src": "images/enfouir/09.jpg",
+        "width": 1500,
+        "height": 2000,
+        "original_file": "9_RB20200910009.jpg"
+      }
+    ],
+    "text": "2020\n\ntravaux in situ, plâtre, flore et faune scannées, jet d’encre sur papier, terre\n\ndimensions variables, de 25x16x3cm à 220x56x25cm\n\nQu’est ce que la fin ? J’ai fouillé la mémoire de mes années passées, sur les routes de l’espace possible.\nA voir, à chercher.\nLa question de la disparition est souvent venue, comme une fin, ou plutôt un passage, une porte. En pratiquant l’art le passage est sans arrêt, la recherche est faite de ces portes qui nous montre de nouveaux mondes.\n\nJ’ai imprimé, scanné, reimprimé.. puis enfoui ces images, je les ai enterré sous terre, pour les rendre invisibles, pour me rendre invisible, et basculer soudainement dans l’imaginaire. Cette propre disparition, se présente souvent, elle fait naître une grande sensation de vérité. Durant ce pont entre visible et invisible, où se situe la fin ? Elle se manifeste dans la dissolution de mon individu.\n\nLes pièces, espaces négatifs sont formées à l’intérieur du sol, sont ensuite déterrées, rituellement rincées, certaines sont laissées dans ce sol. Le procédé est répété, un certain nombre de fois.\n\nTous ces passages à travers la fin sont très importants, ils permettent ce saut dans l’imaginaire pour trouver ce qui apparait juste, après le passé. La fin s’exprime dans l’amour de la vérité, ces passages sont le juste souffle de la vie.",
+    "source_url": "https://rubenbrulat.com/enfouir-20"
+  },
+  {
+    "slug": "corps-traversees",
+    "title": "Corps traversées",
+    "year": "2019",
+    "medium": "Photographie, autoportrait, plâtre",
+    "images": [
+      {
+        "src": "images/corps-traversees/01.jpg",
+        "width": 1300,
+        "height": 868,
+        "original_file": "1_RB20200327015.jpg"
+      },
+      {
+        "src": "images/corps-traversees/02.jpg",
+        "width": 1300,
+        "height": 868,
+        "original_file": "2_RB20200327012-2.jpg"
+      },
+      {
+        "src": "images/corps-traversees/03.jpg",
+        "width": 1300,
+        "height": 868,
+        "original_file": "3_RB20200327014-2.jpg"
+      },
+      {
+        "src": "images/corps-traversees/04.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "4_RB20140515140-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/05.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "5_RB20140515144-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/06.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "6_RB20140515154-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/07.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "7_RB20140515153-Edit-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/08.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "8_RB20140515152-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/09.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "9_RB20140515143-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/10.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "10_RB20140515141-Edit.jpg"
+      },
+      {
+        "src": "images/corps-traversees/11.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "11_RB20140515142-Edit.jpg"
+      }
+    ],
+    "text": "2019\n\nS’enfouir, s’envelopper, se traverser, cinq fois sous la cendre et le sable d’un cratère en éruption.\n\nSelf portraits. Each photographs as series, 20x25cm, framed in plaster. Unique",
+    "source_url": "https://rubenbrulat.com/corps-traverse-19"
+  },
+  {
+    "slug": "dissolution",
+    "title": "Dissolution",
+    "year": "2015 – 2016",
+    "medium": "Photographie, vidéo, son, toiles",
+    "images": [
+      {
+        "src": "images/dissolution/01.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "1_RB20140514105.jpg"
+      },
+      {
+        "src": "images/dissolution/02.gif",
+        "width": 316,
+        "height": 561,
+        "original_file": "2marcher.2019-10-15-22_19_33.gif"
+      },
+      {
+        "src": "images/dissolution/03.jpg",
+        "width": 500,
+        "height": 400,
+        "original_file": "3_RB201602092440.jpg"
+      },
+      {
+        "src": "images/dissolution/04.jpg",
+        "width": 1499,
+        "height": 757,
+        "original_file": "04_RB201606212080.jpg"
+      },
+      {
+        "src": "images/dissolution/05.jpg",
+        "width": 1500,
+        "height": 1200,
+        "original_file": "05_RB201601302435.jpg"
+      },
+      {
+        "src": "images/dissolution/06.jpg",
+        "width": 650,
+        "height": 891,
+        "original_file": "6RB201607152109.jpg"
+      },
+      {
+        "src": "images/dissolution/07.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "7_RB20140514074.jpg"
+      },
+      {
+        "src": "images/dissolution/08.jpg",
+        "width": 550,
+        "height": 1053,
+        "original_file": "8RB201606212067.jpg"
+      },
+      {
+        "src": "images/dissolution/09.jpg",
+        "width": 500,
+        "height": 400,
+        "original_file": "9_RB201602092439.jpg"
+      },
+      {
+        "src": "images/dissolution/10.jpg",
+        "width": 800,
+        "height": 499,
+        "original_file": "10_RB201606211921.jpg"
+      },
+      {
+        "src": "images/dissolution/11.jpg",
+        "width": 1000,
+        "height": 1250,
+        "original_file": "11_RB201602092438.jpg"
+      },
+      {
+        "src": "images/dissolution/12.jpg",
+        "width": 650,
+        "height": 908,
+        "original_file": "12RB201606212055.jpg"
+      },
+      {
+        "src": "images/dissolution/13.jpg",
+        "width": 1000,
+        "height": 800,
+        "original_file": "13_RB20140514116.jpg"
+      },
+      {
+        "src": "images/dissolution/14.jpg",
+        "width": 1500,
+        "height": 1200,
+        "original_file": "14_RB201601302437.jpg"
+      },
+      {
+        "src": "images/dissolution/15.jpg",
+        "width": 500,
+        "height": 625,
+        "original_file": "15_RB201609142267.jpg"
+      },
+      {
+        "src": "images/dissolution/16.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "16_RB20140514063.jpg"
+      },
+      {
+        "src": "images/dissolution/17.jpg",
+        "width": 700,
+        "height": 875,
+        "original_file": "17_RB20140514114.jpg"
+      },
+      {
+        "src": "images/dissolution/18.gif",
+        "width": 224,
+        "height": 398,
+        "original_file": "17feubleu.2019-10-15-18_05_11.gif"
+      },
+      {
+        "src": "images/dissolution/19.jpg",
+        "width": 900,
+        "height": 1350,
+        "original_file": "18_Capture-decran-2019-12-18-a-14.14.25.jpg"
+      },
+      {
+        "src": "images/dissolution/20.jpg",
+        "width": 900,
+        "height": 1350,
+        "original_file": "19_Capture-decran-2019-12-18-a-14.14.35.jpg"
+      },
+      {
+        "src": "images/dissolution/21.jpg",
+        "width": 1500,
+        "height": 1200,
+        "original_file": "20_RB201609142279.jpg"
+      },
+      {
+        "src": "images/dissolution/22.jpg",
+        "width": 800,
+        "height": 1000,
+        "original_file": "1821_RB201601302436.jpg"
+      }
+    ],
+    "text": "2015 - 2016\n\nCanvas sizes from 40x50cm to 300x150cm,\n\nphotographs 40X50cm 1/5 + AP, 120x96cm 1/3 + AP, videos 1/2 + AP, self-portraits, HD video, and sound\n\nLe travail autour et dans les volcans de la ceinture du pacifique, explore une submersion de l’espace sur le corps, un exploration de la couleur donnée par le paysage trouvés après des temps long de recherches dans la géologie. Les toiles apportés puis travaillés sur place, parfois laissé puis retrouvé, son mise en dialogue avec la nature en mouvement.\n\nNature soufflant du souffre par une vente venue de l’intérieur, cristallisant des minéraux sur une faille, cuisant l’argile de la Caldera. Toiles couvertes de souffre liquide solidifié dans le cratère, de terres, d’argiles, de cendres.\n\nDans ces lieux où le son et les sens sont envahit.\n\nMon corps est placé dans les fumés d’une vente, la sensation du souffre qui emplie, créant la noyade, l’étouffement, dans le bleu de sa flamme, sensation totale de dissolution.\n\nLe corps placé dans un cratère proche de l’éruption et la menace de disparition, amplifiant à l’excès la vulnérabilité , atteindre un état d’abandon total.",
+    "source_url": "https://rubenbrulat.com/dissolution-15-16"
+  },
+  {
+    "slug": "sharing-paths",
+    "title": "Sharing Paths",
+    "year": "2013",
+    "medium": "Publication",
+    "images": [
+      {
+        "src": "images/sharing-paths/01.jpg",
+        "width": 400,
+        "height": 320,
+        "original_file": "01_RB20130920001_o.jpg"
+      },
+      {
+        "src": "images/sharing-paths/02.jpg",
+        "width": 400,
+        "height": 320,
+        "original_file": "04_RB20130920004_o.jpg"
+      },
+      {
+        "src": "images/sharing-paths/03.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "08RB2013RB20121107293-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/04.jpg",
+        "width": 500,
+        "height": 400,
+        "original_file": "10RB2012092059161_o.jpg"
+      },
+      {
+        "src": "images/sharing-paths/05.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "14RB2013RB20121107604-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/06.jpg",
+        "width": 300,
+        "height": 200,
+        "original_file": "23RB2013RB20121107764-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/07.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "42RB2013RB201211081514-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/08.jpg",
+        "width": 400,
+        "height": 600,
+        "original_file": "60RB2013RB201112144062.jpg"
+      },
+      {
+        "src": "images/sharing-paths/09.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "63RB2013RB201211081875-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/10.jpg",
+        "width": 600,
+        "height": 900,
+        "original_file": "67RB2013RB201211081950-Edit-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/11.jpg",
+        "width": 400,
+        "height": 600,
+        "original_file": "77RB2013RB201211202438.jpg"
+      },
+      {
+        "src": "images/sharing-paths/12.jpg",
+        "width": 700,
+        "height": 466,
+        "original_file": "88RB2013RB2012040753148.jpg"
+      },
+      {
+        "src": "images/sharing-paths/13.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "91RB2013RB201211202829.jpg"
+      },
+      {
+        "src": "images/sharing-paths/14.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "96RB2013RB201211203469.jpg"
+      },
+      {
+        "src": "images/sharing-paths/15.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "97RB2013RB201211203415-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/16.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "100RB2013RB201211203686-Edit-Edit.jpg"
+      },
+      {
+        "src": "images/sharing-paths/17.jpg",
+        "width": 400,
+        "height": 600,
+        "original_file": "105RB2013RB201211203882.jpg"
+      },
+      {
+        "src": "images/sharing-paths/18.jpg",
+        "width": 800,
+        "height": 640,
+        "original_file": "RB20140514031-Edit.jpg"
+      }
+    ],
+    "text": "Sharing Paths, edition of 250 (and special edition of 50), Paths, self-published, 2013",
+    "source_url": "https://rubenbrulat.com/info"
+  },
+  {
+    "slug": "voir-dans-le-vert-des-jungles",
+    "title": "Voir dans le vert des jungles",
+    "year": "2018",
+    "medium": "Vidéo, son",
+    "images": [
+      {
+        "src": "images/voir-dans-le-vert-des-jungles/01.gif",
+        "width": 503,
+        "height": 283,
+        "original_file": "Doigt.2019-10-22-17_57_362-2.gif"
+      }
+    ],
+    "text": "2018\n\nHD video, son, 4’28’’  1/2 +AP",
+    "source_url": "https://rubenbrulat.com/voir-dans-le-vert-des-jungles-18"
+  },
+  {
+    "slug": "paths",
+    "title": "Paths",
+    "year": "2011 – 2013",
+    "medium": "Photographie",
+    "images": [
+      {
+        "src": "images/paths/01.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "1_-Racines-recherches.jpg"
+      },
+      {
+        "src": "images/paths/02.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "2_-Rimes-irrgulires.jpg"
+      },
+      {
+        "src": "images/paths/03.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "3_-Patiences.jpg"
+      },
+      {
+        "src": "images/paths/04.jpg",
+        "width": 1500,
+        "height": 1874,
+        "original_file": "4_Au-temps-disparu_.jpg"
+      },
+      {
+        "src": "images/paths/05.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "5_-Douces-brise.jpg"
+      },
+      {
+        "src": "images/paths/06.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "6_-Odeurs-d-origines.jpg"
+      },
+      {
+        "src": "images/paths/07.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "7_-Commencement-retrouv.jpg"
+      },
+      {
+        "src": "images/paths/08.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "8_-Mouvement.jpg"
+      },
+      {
+        "src": "images/paths/09.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "9_-Cimes-aux-pas-subtiles.jpg"
+      },
+      {
+        "src": "images/paths/10.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "10_-Flirt.jpg"
+      },
+      {
+        "src": "images/paths/11.jpg",
+        "width": 1500,
+        "height": 1876,
+        "original_file": "12_-Emportez-nous.jpg"
+      },
+      {
+        "src": "images/paths/12.jpg",
+        "width": 900,
+        "height": 600,
+        "original_file": "1301RB2013090658881_o.jpg"
+      },
+      {
+        "src": "images/paths/13.jpg",
+        "width": 500,
+        "height": 333,
+        "original_file": "ETshow-copy-2.jpg"
+      },
+      {
+        "src": "images/paths/14.jpg",
+        "width": 700,
+        "height": 529,
+        "original_file": "RB2011050245849.jpg"
+      }
+    ],
+    "text": "2011 - 2013\n\nA series of twelves photographic works, inkjet on ultrasmooth paper\n\n120x150cm - 1/5+AP and certain photographs 60x80cm - 1/7+AP\n\nStrangers that would be encountered along the way and willing to give themselves away to nature, resulting in a peregrination from more than a year, from Europe to Asia by land only, through Iraq, Iran, onto Afghanistan, Tibet until Indonesia, Japan and Mongolia.\n\nRuben searched for more far away lands, the unknown, in Paths, walking, riding, until there would a place, a person, if all circumstances only would come together, then there would be a picture, if one thing would come to be missing, the way would just continue, until finally all came together.\n\nPerforming sometimes in welcoming sand, sometimes in the harsh snow, the just encountered fellows would let themselves go, opening their senses. Embracing everything that surrounds them. Ephemera intensity before saying, often, goodbye to each other forever.\n\nPlacing the bodies of people there in part with these accidental and dramatic landscapes, like the trees, the rocks or the black sands of Gunung Bromo.\n\nA narrative constructed only by the randomness of the encounter, places and body, meeting with utopia and hope in these only suspended moments. Bodies of people that became friends, performing, not without difficulties, leaving wounds, marks, and souvenirs from a time before heading towards different paths, after sharing one for a while.",
+    "source_url": "https://rubenbrulat.com/paths-11-13"
+  },
+  {
+    "slug": "a-l-interieur",
+    "title": "à l'intérieur",
+    "year": "",
+    "medium": "",
+    "images": [
+      {
+        "src": "images/a-l-interieur/01.jpg",
+        "width": 1000,
+        "height": 800,
+        "original_file": "1_26_1-copy-Edit.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/02.jpg",
+        "width": 1000,
+        "height": 801,
+        "original_file": "2_197_25_1-copy-Edit-copy.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/03.jpg",
+        "width": 700,
+        "height": 875,
+        "original_file": "3_165_12_1-copy-Edit-Edit-copy.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/04.jpg",
+        "width": 800,
+        "height": 1001,
+        "original_file": "4_229_27_1-copy-Edit.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/05.jpg",
+        "width": 500,
+        "height": 366,
+        "original_file": "5_RB20140809612.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/06.jpg",
+        "width": 1000,
+        "height": 421,
+        "original_file": "6_RB20140809574.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/07.jpg",
+        "width": 700,
+        "height": 875,
+        "original_file": "7_77_23_1-copy-Edit.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/08.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "8_RB20140809432.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/09.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "9_14.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/10.jpg",
+        "width": 600,
+        "height": 480,
+        "original_file": "10_RB20140809461.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/11.jpg",
+        "width": 1500,
+        "height": 1200,
+        "original_file": "11_RB20150328001.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/12.jpg",
+        "width": 1000,
+        "height": 801,
+        "original_file": "12_101_38_1-copy-Edit.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/13.jpg",
+        "width": 1000,
+        "height": 1250,
+        "original_file": "13_191_4_1-copy-Edit-copy.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/14.jpg",
+        "width": 2000,
+        "height": 1000,
+        "original_file": "14_187_190pano_8_1-copy-Edit.jpg"
+      },
+      {
+        "src": "images/a-l-interieur/15.jpg",
+        "width": 1500,
+        "height": 1200,
+        "original_file": "15_137_36_1-copy-Edit.jpg"
+      }
+    ],
+    "text": "",
+    "source_url": ""
+  },
+  {
+    "slug": "commencements",
+    "title": "Commencements",
+    "year": "2014 – 2015",
+    "medium": "Photographie, vidéo",
+    "images": [
+      {
+        "src": "images/commencements/01.jpg",
+        "width": 1500,
+        "height": 938,
+        "original_file": "01_Rivieres-de-Temps.jpg"
+      },
+      {
+        "src": "images/commencements/02.jpg",
+        "width": 1500,
+        "height": 391,
+        "original_file": "2_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/03.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "3_Cote-a-cote-avec-le-coeur-2.jpg"
+      },
+      {
+        "src": "images/commencements/04.jpg",
+        "width": 1500,
+        "height": 750,
+        "original_file": "4_Au-commencement.jpg"
+      },
+      {
+        "src": "images/commencements/05.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "5_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/06.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "6_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/07.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "7_Tels-des-diamants-frais.jpg"
+      },
+      {
+        "src": "images/commencements/08.jpg",
+        "width": 900,
+        "height": 720,
+        "original_file": "8_Quiddit-perptuelles.jpg"
+      },
+      {
+        "src": "images/commencements/09.jpg",
+        "width": 500,
+        "height": 625,
+        "original_file": "9_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/10.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "10_Joyaux-briss.jpg"
+      },
+      {
+        "src": "images/commencements/11.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "11_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/12.jpg",
+        "width": 700,
+        "height": 560,
+        "original_file": "12_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/13.jpg",
+        "width": 1500,
+        "height": 1200,
+        "original_file": "13_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/14.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "14_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/15.jpg",
+        "width": 800,
+        "height": 490,
+        "original_file": "15_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/16.jpg",
+        "width": 1000,
+        "height": 393,
+        "original_file": "16_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/17.jpg",
+        "width": 1500,
+        "height": 750,
+        "original_file": "17_Les-souffles.jpg"
+      },
+      {
+        "src": "images/commencements/18.jpg",
+        "width": 500,
+        "height": 400,
+        "original_file": "18_Untitled.jpg"
+      },
+      {
+        "src": "images/commencements/19.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "19_Sous-les-murmures.jpg"
+      }
+    ],
+    "text": "2014 - 2015\n\nA series of photographic works, inkjet on ultrasmooth paper\n\nSelf-portraits, landscapes, HD video, photographs edited in various dimensions, from 20x25cm to 260x130cm, numbered.\n\nLa série Commencements marque la rencontre avec plus de proximité de mon corps et le milieu volcanique, en commun.\n\nEn allant dans le Danakil pour passer plusieurs mois sur place, je me suis lié avec un paysage en devenir, le continent Africain s’y sépare en deux, les paysages sont géophysiques, l’homme y est de passage la sensation tangible d’un corps à sa limite est permanente.\n\nCe fut aussi ma première rencontre avec la couleur, éclatante des bains acides bouillonnant sur un sol de sel sédimenté, dans ces conditions serait apparut les premières formes de vies.\n\nDans ce déplacement j’ai tenté de me rapprocher de cette mémoire archaïque, état bactériel, microscopique passé, histoire inconsciente de notre expérience de vivre.",
+    "source_url": "https://rubenbrulat.com/commencements-14-15"
+  },
+  {
+    "slug": "la-terre-et-la-tempete",
+    "title": "La terre et la tempête",
+    "year": "2022",
+    "medium": "Vidéo, son",
+    "images": [
+      {
+        "src": "images/la-terre-et-la-tempete/01.gif",
+        "width": 447,
+        "height": 251,
+        "original_file": "La-terre-et-la-tempete--1.2022-01-31-15_34_55.gif"
+      },
+      {
+        "src": "images/la-terre-et-la-tempete/02.gif",
+        "width": 562,
+        "height": 316,
+        "original_file": "La-terre-et-la-tempete--4.2022-01-31-15_37_51.gif"
+      },
+      {
+        "src": "images/la-terre-et-la-tempete/03.gif",
+        "width": 578,
+        "height": 325,
+        "original_file": "La-terre-et-la-tempete--6.2022-01-31-15_39_18.gif"
+      },
+      {
+        "src": "images/la-terre-et-la-tempete/04.gif",
+        "width": 564,
+        "height": 317,
+        "original_file": "La-terre-et-la-tempete--2.2022-01-31-15_36_59.gif"
+      },
+      {
+        "src": "images/la-terre-et-la-tempete/05.jpg",
+        "width": 900,
+        "height": 505,
+        "original_file": "RB13TT.png"
+      }
+    ],
+    "text": "2022\n\nvideo HD, sound, Danakil, région Afar, golfe d’Aden\n\n26 min 24 sec, one screen\n\nExtracted clips as gifs.",
+    "source_url": "https://rubenbrulat.com/le-terre-est-la-tempete-22"
+  },
+  {
+    "slug": "attendre-les-flots",
+    "title": "Attendre les flots",
+    "year": "2016",
+    "medium": "Photographie",
+    "images": [
+      {
+        "src": "images/attendre-les-flots/01.jpg",
+        "width": 700,
+        "height": 467,
+        "original_file": "RB2016031068530.jpg"
+      },
+      {
+        "src": "images/attendre-les-flots/02.jpg",
+        "width": 700,
+        "height": 467,
+        "original_file": "RB2016031068531.jpg"
+      },
+      {
+        "src": "images/attendre-les-flots/03.jpg",
+        "width": 500,
+        "height": 750,
+        "original_file": "RB2016031068534.jpg"
+      },
+      {
+        "src": "images/attendre-les-flots/04.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "RB2016031068541.jpg"
+      },
+      {
+        "src": "images/attendre-les-flots/05.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "RB2016031068532-2.jpg"
+      },
+      {
+        "src": "images/attendre-les-flots/06.jpg",
+        "width": 1500,
+        "height": 1875,
+        "original_file": "RB2016031068543.jpg"
+      },
+      {
+        "src": "images/attendre-les-flots/07.jpg",
+        "width": 700,
+        "height": 467,
+        "original_file": "RB2016031068529.jpg"
+      }
+    ],
+    "text": "2016\n\nA series of photographs, inkjet on paper\n\nUn bateau est rencontré en état d’évolution sur les rives du Gange. Il est fait de bois flotté, jettés, usés, il constitue les base de la future construction. Objets réutilisés, changement d’état, bois trouvés, corde, briques, bambou, pierres, sur les rives du Gange.\n\nUn documentation est établie.",
+    "source_url": "https://rubenbrulat.com/attendre-les-flots-16"
+  },
+  {
+    "slug": "primates",
+    "title": "Primates",
+    "year": "2009 – 2010",
+    "medium": "Photographie",
+    "images": [
+      {
+        "src": "images/primates/01.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "01_RB200911214061.jpg"
+      },
+      {
+        "src": "images/primates/02.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "01_RB20090907001_2K48.jpg"
+      },
+      {
+        "src": "images/primates/03.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "02_RB20090816004.jpg"
+      },
+      {
+        "src": "images/primates/04.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "02_RB20090916007_2K48.jpg"
+      },
+      {
+        "src": "images/primates/05.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "03_RB20090916002_2K48.jpg"
+      },
+      {
+        "src": "images/primates/06.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "03_RB20090818009.jpg"
+      },
+      {
+        "src": "images/primates/07.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "04_RB20090817007.jpg"
+      },
+      {
+        "src": "images/primates/08.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "05_RB20090928004_2K48.jpg"
+      },
+      {
+        "src": "images/primates/09.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "05_RB20090815001.jpg"
+      },
+      {
+        "src": "images/primates/10.jpg",
+        "width": 2000,
+        "height": 1601,
+        "original_file": "06_RB20090916005_2K48.jpg"
+      },
+      {
+        "src": "images/primates/11.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "06_RB200911214007.jpg"
+      },
+      {
+        "src": "images/primates/12.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "07_RB200911093825.jpg"
+      },
+      {
+        "src": "images/primates/13.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "08_RB200911213951.jpg"
+      },
+      {
+        "src": "images/primates/14.jpg",
+        "width": 2000,
+        "height": 1600,
+        "original_file": "08_RB20090928006_2K48.jpg"
+      }
+    ],
+    "text": "2009 - 2010\n\nA series of sixteen photographic works, inkjet on paper\n\n110x137,5cm - 1/3+AP and 60x80cm - 1/5+AP\n\nIl y a, dans la démarche de Ruben Brulat, quelque chose de romantique, au sens dix- neuvièmiste du terme. Son travail est celui d’un solitaire, exalté et mystique, lancé dans une quête qui le confronte aux limites et lui ouvre les portes d’une appréhension nouvelle du monde.\n\nAutrefois, à la suite d’Amiel, toute une génération avait proclamé que « chaque paysage est un état d’âme », et plongé son regard dans des perspectives sans fin, accidentées comme la vie, torturées comme le sentiment humain. Une fascination que l’on retrouve nettement dans cette nouvelle série de photographies, intitulée Primates.\n\nPourtant, quand un Friedrich suggérait la grandeur humaine en représentant une silhouette anonyme absorbée dans le spectacle d’une mer de nuages, Brulat, lui, renverse l’expérience, en l’immergeant dans la réalité. Chez lui, il ne s’agit plus d’évoquer la grandeur d’un caractère, mais celle de la Création elle-même, où l’humain, en tant qu’espèce, cherche sa place.\n\nParmi les rochers, la neige et la glace hostiles, peu disposés à accueillir la vie, voici un corps sans identité, totalement nu et démuni. Parviendra-t-il à se fondre dans ce décor, dans cet infini d’accidents ? Saura-t-il s’apparenter à la bête qui, établie en son milieu, règne sur son territoire ? Elle est bouleversante, la tentative désespérée de cet être de faire corps, justement, d’être accepté, ou ré-accepté, par une matrice dont la substance humaine est étrangement exilée.\n\nLe voici ravalé au rang d’espèce, comme un homme d’avant les millénaires, forcé de se connaître et de s’adapter aux déterminations extérieures qui ne sont que menaces.\n\nCar il est impossible de faire abstraction des conditions de la réalisation de ces clichés : la prise de risque, l’émotion intense, la féerie et l’exploration des limites sont palpables. On perçoit que l’artiste répond à tous ses instincts, qu’il s’offre tout entier et se laisse atteindre par les choses. Si parfois un coussin de neige semble plus accueillant, plus moelleux, le spectateur ne peut réprimer le frisson que déclenche en lui ce corps soumis sans défense à la dévoration des éléments.\n\nIl ressent l’urgence, l’impossibilité de penser, mais aussi la rapidité et la volupté inattendue de l’action.\n\nCertes, il ne se crée pas l’illusion que la fusion avec la nature soit possible sans lutte ni conditions. Mais cette série raconte une quête, avec son lot d’espoirs déçus et de tentatives avortées, et au bout du chemin, un fugace mais incontestable triomphe.\n\nCelui d’être parvenu, ne serait-ce que pour un instant et dans l’ivresse du moment, à créer la symbiose : lorsque la figure humaine, comme apaisée, semble se confondre avec un éboulis rocheux, flotter sereinement à la surface d’une nappe d’eau noire aux côtés d’une croûte de glace, ou trouver refuge au creux d’un tapis d’herbe tendre, au vert dense et profond.\n\npar Dan Nisand, écrivain.",
+    "source_url": "https://rubenbrulat.com/primates-9-10"
+  },
+  {
+    "slug": "constructions-des-courants",
+    "title": "Constructions des courants",
+    "year": "2015",
+    "medium": "Photographie",
+    "images": [
+      {
+        "src": "images/constructions-des-courants/01.jpg",
+        "width": 1000,
+        "height": 800,
+        "original_file": "86_13_1-copy.jpg"
+      },
+      {
+        "src": "images/constructions-des-courants/02.jpg",
+        "width": 1000,
+        "height": 723,
+        "original_file": "RB201504124129.jpg"
+      },
+      {
+        "src": "images/constructions-des-courants/03.jpg",
+        "width": 1000,
+        "height": 750,
+        "original_file": "RB201504124118.jpg"
+      },
+      {
+        "src": "images/constructions-des-courants/04.jpg",
+        "width": 1000,
+        "height": 750,
+        "original_file": "RB201504124119.jpg"
+      },
+      {
+        "src": "images/constructions-des-courants/05.jpg",
+        "width": 1000,
+        "height": 750,
+        "original_file": "RB201504124121.jpg"
+      },
+      {
+        "src": "images/constructions-des-courants/06.jpg",
+        "width": 1000,
+        "height": 750,
+        "original_file": "RB201504124120.jpg"
+      }
+    ],
+    "text": "2015\n\nA series of seven photographs , inkjet on paper\n\n24x30cm, 1/5+AP\n\nDes habitats sont rencontrés lors d’une marche. Ils sont fait avec les objets données par les mers du Golfe d’Aden en Somalie, élements ballotés, emportés, rejettés, repoussé, transformés, reconstruits.",
+    "source_url": "https://rubenbrulat.com/construction-des-courants-15"
+  },
+  {
+    "slug": "de-la-lune",
+    "title": "De la Lune",
+    "year": "2018",
+    "medium": "Marche",
+    "images": [
+      {
+        "src": "images/de-la-lune/01.jpg",
+        "width": 800,
+        "height": 534,
+        "original_file": "01_RB20180417001.jpg"
+      },
+      {
+        "src": "images/de-la-lune/02.jpg",
+        "width": 1300,
+        "height": 1950,
+        "original_file": "02_RB20180424002-2.jpg"
+      },
+      {
+        "src": "images/de-la-lune/03.jpg",
+        "width": 800,
+        "height": 533,
+        "original_file": "RB2304201814156.jpg"
+      },
+      {
+        "src": "images/de-la-lune/04.jpg",
+        "width": 1000,
+        "height": 668,
+        "original_file": "RB1904201815001.jpg"
+      },
+      {
+        "src": "images/de-la-lune/05.jpg",
+        "width": 1500,
+        "height": 1000,
+        "original_file": "RB1704201813565-Edit.jpg"
+      }
+    ],
+    "text": "2018\n\nUne marche, des habitats déplaceablent, une progression lente, à pieds pendant un mois, des pistes, des parages, des restes, des traces, des indices.\n\nFôrets Rwenzory, Congo et Uganda",
+    "source_url": "https://rubenbrulat.com/de-la-lune-18"
+  }
+]

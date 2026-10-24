@@ -1,0 +1,47 @@
+RUBEN BRULAT — PREMIÈRE MAQUETTE
+
+POUR VOIR LE SITE
+1. Décompresser entièrement ce ZIP.
+2. Ouvrir index.html dans Safari, Chrome ou Firefox.
+3. Cliquer sur les titres des projets pour parcourir les images.
+Conserver les fichiers et le dossier images ensemble.
+
+CONTENU
+5 projets, 46 images. Les GIF sont conservés dans leur format original.
+Les images fixes sont optimisées et leur orientation EXIF est appliquée.
+Aucune image n'est recadrée. L'ordre numéroté des fichiers est conservé.
+Les titres proviennent des dossiers ; les années reprennent l'index du site existant.
+La page Info est intégrée au site.
+Les textes des cinq projets sont intégrés sous les images. La poésie et les autres archives restent à migrer.
+Elle ne remplace pas le site en ligne.
+
+GITHUB PAGES
+Créer un dépôt public nommé IDENTIFIANT.github.io sur GitHub.
+Déposer le contenu décompressé à la racine du dépôt, avec index.html et images/.
+Ne pas déposer seulement le ZIP.
+Dans Settings > Pages : Deploy from a branch, main, / (root), Save.
+Tester cette version avant de raccorder rubenbrulat.com.
+Ne pas résilier Cargo avant la migration des contenus restants et du domaine.
+
+MODIFICATIONS
+style.css règle la présentation. Chaque projet possède son fichier HTML.
+Pour remplacer une image, garder son chemin et son nom dans images/.
+projets.json est un inventaire ; le modifier seul ne régénère pas les pages HTML.
+Les droits des œuvres et photographies restent ceux de leurs titulaires.
+
+TYPOGRAPHIE ET NAVIGATION
+EB Garamond est incluse dans fonts/ et fonctionne sans installation ni connexion. Licence SIL Open Font License incluse.
+Nom et titres en gras ; mise en page centrée. Le bandeau ouvre la liste des projets avec leurs médiums et années. Sur une page projet, le bandeau garde son titre et son médium.
+Les médiums sont des intitulés synthétiques tirés des descriptions du site d'origine.
+
+CONTENUS REPRIS LE 23 OCTOBRE 2026
+Info : biographie, newsletter, expositions, monographie, bibliographie et Traversées.
+Les textes et langues d’origine sont conservés. Les césures accidentelles du texte Tu souffles ont été retirées.
+La monographie est citée sans lien car /Book-SP renvoie une erreur 404.
+Ta sphère est sans peau : 2025 dans l’index, 2022 dans le texte source ; les deux dates sont conservées.
+
+NOUVEL INDEX
+Accueil sous forme de liste : titre, médium, année. Cliquer sur une ligne ou son triangle pour ouvrir les images et le texte. Cliquer à nouveau pour replier. Info est en haut à droite. Les pages individuelles restent accessibles par leur URL.
+
+AJOUTS DU 23 OCTOBRE 2026
+5 nouveaux projets, 42 images. Textes repris des pages sources indiquées dans projets.json. Médiums résumés à partir de ces descriptions. Souffle, souffle est daté 2023 selon sa page dédiée. Ordre des images : numérotation des fichiers transmis.
